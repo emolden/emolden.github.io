@@ -22,7 +22,18 @@ body{
 
 .title{
   text-align: center;
+}
 
+h4{
+  padding-left: 10px;
+}
+
+h5{
+  padding-left: 20px;
+}
+
+.info{
+  text-align: center;
 }
 
 img {
@@ -34,3 +45,4 @@ img {
   border: 1px solid white;
   padding: 5px;
 }
+
